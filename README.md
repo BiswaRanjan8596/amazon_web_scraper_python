@@ -53,6 +53,22 @@ This scraper was tested on a live Amazon product page:
 *Apple AirPods Max*  
 URL: `https://www.amazon.in/dp/B0DGJ61KZ8`
 
+### 📄 Sample Fields:
+- `product_title`
+- `product_price`
+- `product_rating`
+- `product_bp`
+- `product_description`
+- `product_insidebox`
+- `product_technical_details`
+
+---
+
+## 📎 Example Product Tested
+
+Apple AirPods Pro Max  
+🔗 [Amazon Product Link](https://www.amazon.in/dp/B0DGJ61KZ8)
+
 ---
 
 ## 🚫 Disclaimer
